@@ -1,4 +1,4 @@
-## yourselfCoffeeShop
+## Sinopse
 
 Yourself é um aplicativo para Android de uma cafeteria fictícia chamada Yourself Coffe & More. 
 Ele possui inicialmente dois menus principais, um que contém as informações da empresa e outro que mostra as opções de cafés servidos com suas informações e valores.
